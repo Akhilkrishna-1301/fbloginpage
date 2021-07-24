@@ -1,0 +1,150 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    padding-left: -1px;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+   
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-control{
+    margin-left: 115px;
+}
+.forgotten{
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+    font-weight: bold;                                                                  
+}
+.submit-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    cursor: pointer;
+    height: 22px;
+    width: 51px;
+
+}
+.submit-btn:hover{
+    background: rgb(218, 208, 208);
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 69px;
+    padding-top: 79px;
+}
+.right-section{
+    width: 39%;
+    float: left;
+    margin-left: 48px;
+    padding-top: 79px;
+    color: blue;
+    
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 863px;
+}
+.img{
+    width: 760px;
+    height: 563px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+    color: blue;
+}
+.Form{
+    height: 43px;
+    width: 274px;
+    border-radius: 1px;
+    font-size: 15px;
+    border-color: rgb(223, 228, 231);
+}
+.reenter-email{
+    color: blue;
+}
+.newpass{
+    color: blue;
+}
+.common{
+    padding-left: 27px;
+    color: blue;
+
+}
+.iam{
+    padding-left: 80px;
+    color: blue;
+}
+.sex{
+    height: 43px;
+    width: 98px;
+    border-radius: 1px;
+    font-size: 15px;
+    border-color: #fff;
+    background: #fff;
+}
+.birthday{
+    padding-left: 51px;
+    color: blue;
+}
+.month{
+    width: 110px;
+    height: 32px;
+    font-size: 17px;
+    font-style: inherit;
+}
+.day{
+    height: 32px;
+    font-size: 17px;
+    font-style: inherit;
+}
+.year{
+    height: 32px;
+    font-size: 17px;
+    font-style: inherit;
+
+}
+#buty{
+    padding-left: 109px;
+    color: blue;
+}
+.signup{
+    margin-left: 109px;
+    background: green;
+    color: #fff;
+    width: 173px;
+    height: 58px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 7px;
+
+
+}
